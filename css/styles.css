@@ -1,0 +1,157 @@
+body{
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+  font-size: 100%;
+}
+/*div{
+  background-color: #E4F9F5;
+  margin: 0;
+}*/
+a{
+  color: #11999E;
+  margin: 10px 10px;
+  text-decoration: none;
+}
+a:hover{
+  color: #EAF6F6;
+}
+
+h1{
+  margin: 50px auto 0 auto;
+  font-size: 5.32rem;
+  font-family: 'Sacramento', cursive;
+  line-height: 2;
+  color: #66BFBF;
+
+}
+h2{
+  font-size: 2.5rem;
+  font-weight: normal;
+  line-height: 2;
+  color: #66BFBF;
+  padding-bottom: 10px;
+}
+h3{
+  color: #11999E;
+}
+p{
+  line-height: 2;
+}
+
+
+.bottom-container{
+background-color: #66BFBF;
+padding: 50px 0 20px;
+}
+.bottom-cloud{
+  position: absolute;
+  left: 150px;
+  bottom: 300px;
+}
+.copyright{
+  font-size: 0.75rem;
+  color: #E4F9F5;
+}
+.chilli-img{
+  width: 25%;
+  float: right;
+  margin-left: 50px;
+}
+.contact-message{
+  font-size: 100%;
+  width: 40%;
+  margin:40px auto 60px;
+}
+.hello{
+  padding: 0 0 0;
+  margin-bottom: 0;
+}
+
+.generic{
+  width: 25%;
+  float: left;
+  margin-right: 50px;
+}
+.intro{
+  margin:0 auto 40px;
+}
+.Nishant-pic{
+  width:150px;
+  margin: 80px auto 30px;
+}
+.Middle-Container{
+    /*margin: 100px 0;*/
+
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.Top-Container{
+  background-color: #E4F9F5;
+  position: relative;
+  padding-top: 100px;
+}
+
+.top-cloud{
+  position: relative;
+  bottom: 30px;
+  left: 450px;
+}
+
+
+
+
+/**/
+
+
+
+
+
+
+
+
+.btn {
+   background: #11CDD4;
+   background-image: -webkit-linear-gradient(top, #11CDD4, #11999E);
+   background-image: -moz-linear-gradient(top, #11CDD4, #11999E);
+   background-image: -ms-linear-gradient(top, #11CDD4, #11999E);
+   background-image: -o-linear-gradient(top, #11CDD4, #11999E);
+   background-image: -webkit-gradient(to bottom, #11CDD4, #11999E);
+   -webkit-border-radius: 8px;
+   -moz-border-radius: 8px;
+   border-radius: 8px;
+   color: #FFFFFF;
+   font-family: Arial;
+   font-size: 18px;
+   font-weight: 100;
+   padding: 8px;
+   -webkit-box-shadow: 2px 2px 6px 0 #000000;
+   -moz-box-shadow: 2px 2px 6px 0 #000000;
+   box-shadow: 2px 2px 6px 0 #000000;
+   text-shadow: 0 1px 20px #000000;
+   border: solid #33EDCA 0;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+   margin-bottom: 40px;
+}
+
+.btn:hover {
+   border: solid #337FED 0;
+   background: #30E3CB;
+   background-image: -webkit-linear-gradient(top, #30E3CB, #2BC4AD);
+   background-image: -moz-linear-gradient(top, #30E3CB, #2BC4AD);
+   background-image: -ms-linear-gradient(top, #30E3CB, #2BC4AD);
+   background-image: -o-linear-gradient(top, #30E3CB, #2BC4AD);
+   background-image: -webkit-gradient(to bottom, #30E3CB, #2BC4AD);
+   -webkit-border-radius: 8px;
+   -moz-border-radius: 8px;
+   border-radius: 8px;
+   text-decoration: none;
+}
